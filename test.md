@@ -10,15 +10,6 @@ ghdsgsdguydssss
 
 ## Тут бедет первый конфликт 
 
-gsegsgjgsegsggfdgdgdfgdfgdfgdfg
-
-gseiojgsioegjisgjgdfgdfg   gfdgdfgdfgdfg
-
-dgfijdgifdgjoidfjgdf
-
-gesgjsioegjisg  gdfgdfgdfgdfgdfgdfg
-
-gsgesgsegesg gdfgdfgdfgdfgdf
 ## Тут будет второй конфликт
 
 Создаем второй конфликт 
