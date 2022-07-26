@@ -10,14 +10,22 @@ ghdsgsdguydssss
 
 ## Тут бедет первый конфликт 
 
-создаем первый конфликт  
+gsegsgjgsegsg
 
-упрурпшгываррпшвроп
+gseiojgsioegjisgj
 
-пыушощыоушпщоып
+gesgjsioegjisg
 
-пушщыпошыщо
+gsgesgsegesg
 ## Тут будет второй конфликт
+
+fgyygfyudgfdghfghdfg
+
+dghfgudihfgufdhguidfg
+
+dgiofdjgiodfjg
+
+gddfkgdfgj
 
 ## Тут мы добавим что то из третий ветки
 
