@@ -8,6 +8,12 @@ dfgdfgfdgdf
 
 пдплвооывыпоывп
 
+тестируем pull
+
+test 1
+
+test 2
+
 ghdsgsdguydssss
 
 ## Тут бедет первый конфликт 
